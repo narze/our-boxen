@@ -88,4 +88,36 @@ node default {
     ensure => link,
     target => $boxen::config::repodir
   }
+
+  # my packages
+  include alfred
+  include bartender
+  include better_touch_tools
+  include caffeine
+  include chrome
+  include cyberduck
+  include dropbox
+  include evernote
+  include flux
+  include gitx
+  include hipchat
+  include iterm2::stable
+  include keyremap4macbook
+  include macvim
+  include mongodb
+  include mplayerx
+  include noip_duc
+  include ohmyzsh
+  include onepassword
+  include pckeyboardhack
+  include pgadmin3
+  include postgresapp
+  include quicksilver
+  include skype
+  include slate
+  include sublime_text
+  include tmux
+  include unarchiver
+  include vagrant
+  include xtrafinder
 }

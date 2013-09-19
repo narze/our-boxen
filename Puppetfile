@@ -36,3 +36,41 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "alfred",         "1.1.4"
+github "bartender",     "0.0.1", :repo => "jpsirois/puppet-bartender"
+github "better_touch_tools", "1.0.0"
+github "caffeine",       "1.0.0"
+github "chrome",         "1.1.1"
+github "cyberduck",      "1.0.1"
+github "dropbox",        "1.1.1"
+github "evernote",       "2.0.4"
+github "flux",           "1.0.0"
+github "gitx",           "1.2.0"
+github "hipchat",        "1.0.8"
+github "iterm2",         "1.0.3"
+github "keyremap4macbook", "1.0.4"
+github "macvim",         "1.0.0"
+github "mongodb",        "1.0.4"
+github "mplayerx",       "1.0.0"
+github "noip_duc",       "1.0.1"
+github "ohmyzsh",        "1.0.0", :repo => "samjsharpe/puppet-ohmyzsh"
+github "onepassword",    "1.0.2"
+github "pckeyboardhack", "1.0.5", :repo => "smh/puppet-pckeyboardhack"
+github "pgadmin3",       "1.0.0"
+github "postgresapp",    "1.0.0"
+github "quicksilver",    "1.0.1"
+github "skype",          "1.0.4"
+github "slate",		 "1.0.0"
+github "sublime_text",   "1.2.1", :repo => "slantview/puppet-sublime_text"
+github "tmux",           "1.0.2"
+github "unarchiver",     "1.2.0", :repo => "fredoliveira/puppet-unarchiver"
+github "vagrant",        "2.0.10"
+github "xtrafinder",     "1.0.1"
+
+# to-do
+# github "hazel", "0.0.3", :repo => "narze/puppet-hazel"
+# github "scrollreverser", "1.0.0", :repo => "narze/puppet-scrollreverser"
+# github "symboliclinker", "1.0.0", :repo => "narze/puppet-symboliclinker"
+
+
